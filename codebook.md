@@ -1,7 +1,7 @@
 Coursera - Getting & Cleaning Data Course Project
 18/12/2018
 
-Original dataset Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto
+Original dataset by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto
 
 ================================================================== Human Activity Recognition Using Smartphones Dataset Version 1.0
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto. Smartlab - Non Linear Complex Systems Laboratory DITEN - Università degli Studi di Genova. Via Opera Pia 11A, I-16145, Genoa, Italy. activityrecognition@smartlab.ws www.smartlab.ws
@@ -24,7 +24,7 @@ This repo contains following fles:
 downloads and unzips the data set from the source
 Introduces correct variables names and adds subject and activity variables to original dataset
 Subsets only mean and standard deviation info
-Writes the tidy data to tidy_data.txt file. File contains means for every column for every activity and subject.
+Writes the tidy data to tidy_data.txt file. File contains means of every column in every activity and subject subtable.
 
 'codecook.md': dataset and analysis description
 
